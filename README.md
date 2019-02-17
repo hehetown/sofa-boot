@@ -75,4 +75,4 @@ SOFA 的第一个版本是阿玺创造的，感谢阿玺给 SOFA 打下了坚实
 请参考 [SOFABoot 官方文档](http://www.sofastack.tech/sofa-boot/docs/Home)。
 ## 以上为SOFABoot主分支描述，本分支是用于学习
 ## 一、学习目标
-    了解框架组织结构
+    了解框架组织结构、开发组织规范。使用SOFABoot完成现有项目改造，能够在实际项目中应用。
